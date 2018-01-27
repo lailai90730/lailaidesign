@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: grey;
+}
+
+.color-red {
+    color: red;
+}
+
+.title {
+    float: left;
+}
